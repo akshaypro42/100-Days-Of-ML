@@ -1,3 +1,6 @@
-Video link : https://www.youtube.com/watch?v=a_XrmKlaGTs
 
-Books dataset link : http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+## Learning Source
+
+This topic was learned from the CampusX 100 Days of Machine Learning series.
+
+[Watch the CampusX video] Video link : https://www.youtube.com/watch?v=a_XrmKlaGTs
